@@ -6,6 +6,7 @@
 </head>
 
 <body>
+<h1>S.E.R.L.E.R</h1>
 <?php
 $title = $author= $journal= $year=$credreason=$credrated=$outcome=$context=$result=$integrity=
 $reason=$conrated=$researchq=$metrics ="";
